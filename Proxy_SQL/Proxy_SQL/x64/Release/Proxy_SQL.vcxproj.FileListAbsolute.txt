@@ -1,0 +1,2 @@
+C:\Users\dimak\Desktop\C++\Proxy_SQL\Proxy_SQL\x64\Release\Proxy_SQL.vcxproj.CopyComplete
+C:\Users\dimak\Desktop\SQL_Proxy\Proxy_SQL\Proxy_SQL\x64\Release\Proxy_SQL.vcxproj.CopyComplete

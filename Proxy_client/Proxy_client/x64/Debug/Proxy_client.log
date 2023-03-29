@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\dimak\Desktop\SQL_Proxy\Proxy_client\Proxy_client\main.cpp(10,9): warning C4615: #pragma warning: неизвестный тип пользовательского предупреждения
+C:\Users\dimak\Desktop\SQL_Proxy\Proxy_client\Proxy_client\main.cpp(20,49): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Proxy_client.vcxproj -> C:\Users\dimak\Desktop\SQL_Proxy\Proxy_client\x64\Debug\Proxy_client.exe

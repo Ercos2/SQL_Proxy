@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\dimak\Desktop\C++\Proxy_SQL\Proxy_SQL\main.cpp(11,9): warning C4615: #pragma warning: неизвестный тип пользовательского предупреждения
+C:\Users\dimak\Desktop\C++\Proxy_SQL\Proxy_SQL\main.cpp(35,23): warning C4244: инициализация: преобразование "uintmax_t" в "int", возможна потеря данных
+  Proxy_SQL.vcxproj -> C:\Users\dimak\Desktop\C++\Proxy_SQL\x64\Debug\Proxy_SQL.exe
