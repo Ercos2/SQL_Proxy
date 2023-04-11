@@ -1,5 +1,4 @@
 #pragma once
-#pragma comment(lib,"mysqlclient.lib")
 
 #define _SILENCE_EXPERIMENTAL_FILESYSTEM_DEPRECATION_WARNING
 #define _WINSOCK_DEPRECATED_NO_WARNINGS
